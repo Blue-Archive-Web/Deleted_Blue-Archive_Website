@@ -40,6 +40,6 @@
 
 您可以通过 [Google Play](https://play.google.com/store/apps/details?id=com.YostarJP.BlueArchive) 、 [AppStore](https://apps.apple.com/app/id1515877221) 来下载 **日服** Blue Archive
 
-## 子域名
+## 二级域名
 
-你可以 [联系我](mailto:gytxtx@outlook.com) 来申请子域名
+你可以 [联系我](mailto:gytxtx@outlook.com) 来申请二级域名
