@@ -40,13 +40,13 @@
 
 您可以通过 [官网](https://bluearchive-cn.com/) 、 [AppStore](https://apps.apple.com/cn/app/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/id6447541184) 、 [TapTap](https://www.taptap.cn/app/316964) 来下载 **国服** 蔚蓝档案
 
+## 相关 `Wiki`
+
+[Gamekee](https://ba.gamekee.com/)
+
 ## 二级域名
 
 你可以 [联系我](mailto:gytxtx@outlook.com) 来申请本域名的二级域名
-
-## 施工中
-
-[蔚蓝档案角色列表](/Character)
 
 ## 关于我
 
