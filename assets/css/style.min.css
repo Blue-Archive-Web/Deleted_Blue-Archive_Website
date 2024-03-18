@@ -1,0 +1,97 @@
+/* :root{--background-color:#FBFDF88F}@media (prefers-color-scheme:dark){:root{--background-color:#191C1A8F}}body{font-family:Poppins,Roboto,'Noto Sans SC',sans-serif}.mdui-appbar{background:var(--background-color);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px)}.mdui-menu{border-radius:12px}.mdui-divider{margin:32px}.mdui-card{border-radius:16px}.title{font-family:'Tilt Neon',monospace}.main-content{max-width:480px}.header{margin:16px}.header-title{margin-bottom:8px}.avatar-large{max-width:128px}.avatar-small{max-width:128px;margin-bottom:16px}.khrisma-card-img{border-radius:16px}.khrisma-barank{color:#FFFFFF}.khrisma-title-gekka{color:#43483F}.mdui-drawer-close{id:main-drawer}.khrisma-card-btn{border-radius:18px}.khrisma-card-margin{margin-top:32px}footer{line-height:1.5;margin-top:-16px;margin-bottom:16px} */
+
+
+:root {
+  --background-color: #FBFDF88F;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #191C1A8F;
+  }
+}
+
+body {
+  font-family: Poppins, Roboto, 'Noto Sans SC', sans-serif;
+}
+
+.mdui-appbar {
+  background: var(--background-color);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.mdui-menu {
+  border-radius: 12px;
+}
+
+.mdui-divider {
+  margin: 32px;
+}
+
+.mdui-card {
+  border-radius: 16px;
+}
+
+/* .title {
+  font-family: 'Tilt Neon', monospace;
+} */
+
+.main-content {
+  max-width: 480px;
+}
+
+.header {
+  margin: 16px;
+}
+
+.header-title {
+  margin-bottom: 8px;
+}
+
+.avatar-large,
+.avatar-small {
+  max-width: 128px;
+}
+
+.avatar-small {
+  margin-bottom: 16px;
+}
+
+.khrisma-card-img {
+  border-radius: 16px;
+}
+
+.card-text-white {
+  color: #FFFFFF;
+}
+
+.card-text-gray {
+  color: #43483F;
+}
+
+.mdui-drawer-close#main-drawer {}
+
+.khrisma-card-btn {
+  border-radius: 18px;
+}
+
+.khrisma-card-margin {
+  margin-top: 32px;
+}
+
+footer {
+  line-height: 1.5;
+  margin-top: -16px;
+  margin-bottom: 16px;
+}
+
+/* 设置 Copyright 的样式 */
+
+.copyright {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px 16px;
+    position: absolute;
+    bottom: 0;
+}
