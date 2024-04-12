@@ -21,7 +21,7 @@
     <meta name="keywords" content="碧蓝档案,蔚蓝档案,BlueArchive,Blue Archive,ブルーアーカイブ">
     <meta name="description" content="蔚蓝档案 的第三方网站。">
 
-    <title>蔚蓝档案 - 第三方网站</title>
+    <title>工具 - 蔚蓝档案 - 第三方网站</title>
 
     <!-- 引入 CSS 文件 -->
     <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.min.css" />
@@ -47,9 +47,11 @@
                     <i class="mdui-collapse-item-arrow mdui-icon material-icons">keyboard_arrow_down</i>
                 </div>
                 <div class="mdui-collapse-item-body mdui-list">
+                    <li class="mdui-subheader">网站</li>
                     <a href="index.html" class="mdui-list-item mdui-ripple">主页</a>
                     <a href="Tools.html" class="mdui-list-item mdui-ripple">工具</a>
 
+                    <li class="mdui-subheader">其他</li>
                     <a href="https://gytxtx.github.io/" class="mdui-list-item mdui-ripple">KFACBT 的个人网站</a>
                     <a href="https://github.com/gytxtx/KFACBT_Toolkit" class="mdui-list-item mdui-ripple">KFACBT's Toolkit</a>
                 </div>
@@ -115,7 +117,7 @@
                     <i class="mdui-icon material-icons" mdui-tooltip="{content: '菜单'}">menu</i>
 
                 </span>
-                <a class="mdui-typo-title mdui-center title">蔚蓝档案 - 第三方网站</a>
+                <a class="mdui-typo-title mdui-center title">工具</a>
 
                 <!-- 原先版本不会自动切换音乐图标 -->
                 <!-- <a href="javascript:;" class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '背景音乐'}" onclick="toggleBackgroundMusic()">
@@ -164,70 +166,32 @@
 
             <div class="mdui-typo" style="height: auto !important;">
                 <!-- <h3>欢迎来到 KFACBT 的网站！</h3> -->
-                <h1 class="title">欢迎来到 <code>蔚蓝档案</code> 的 <strong>第三方</strong> 网站！</h1>
+                <h1 class="title">工具</h1>
 
-                <!-- <h4>简介</h4> -->
-                <!-- <p>一个简易的，基于 MDUI 的文档。</p> -->
-                <!-- <p>如需历史版本，请点击 <a href="https://gytxtx.github.io/Docs" target="_blank">这里</a>。</p> -->
+                <h2 id="-">简介</h2>
+                <p>本网站托管于 <a href="https://pages.github.com/">GitHub Pages</a>，由 <a href="https://www.mdui.org/">MDUI</a> 驱动。</p>
+                <h2 id="-">内容</h2>
+                <p>本网页的内容使用 <code>Markdown</code> 编写，使用 <a href="https://markdowntohtml.com/">Markdown to HTML</a> 转换成 HTML。</p>
+                <h3 id="-">如何实现？</h3>
+                <pre><code class="lang-HTML">
+                <span class="hljs-comment">&lt;!-- 网页前面跳过，因为都能看到 --&gt;</span>
+                
+                    <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"mdui-content"</span>&gt;</span>
+                
+                        <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"mdui-typo"</span> <span class="hljs-attr">style</span>=<span class="hljs-string">"height: auto !important;"</span>&gt;</span>
+                            <span class="hljs-comment">&lt;!-- 在这里填写标题 --&gt;</span>
+                            <span class="hljs-tag">&lt;<span class="hljs-name">h1</span> <span class="hljs-attr">class</span>=<span class="hljs-string">"title"</span>&gt;</span>这是一个示例<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+                
+                            <span class="hljs-comment">&lt;!-- 在这里粘贴 Markdown To HTML 的输出结果 --&gt;</span>
+                
+                        <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
+                    <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
+                
+                <span class="hljs-comment">&lt;!-- 网页后面跳过，因为都能看到 --&gt;</span>
+                </code></pre>
+                <p>大体就是这样。</p>
 
-                <div class="mdui-typo">
-                    <!-- mdui-text-color-theme -->
-                    <h2 class="chapter-title chapter-title-first">简介<a class="anchor" id="introduction"></a></h2>
-                    <!-- <p>1</p> -->
-                </div>
-                <br>
-                <p>这是蔚蓝档案的第三方网站。</p>
-                <div class="mdui-typo">
-                    <blockquote>
-                        <p>重要提示：本站是 <strong>非官方</strong> 网站，本网站表达的观点未必反应官方的观点。</p>
-                    </blockquote>
-                </div>
 
-                <div class="mdui-typo">
-                    <!-- mdui-text-color-theme -->
-                    <h2 class="chapter-title chapter-title-first">游戏简介<a class="anchor" id="game-introduction"></a></h2>
-                    <p>关于游戏《<strong>蔚蓝档案</strong>》的介绍。</p>
-                </div>
-                <!-- <br> -->
-                <div class="mdui-typo">
-                    <blockquote>
-                        <p>本段内容来源于 <a href="https://zh.wikipedia.org/zh-cn/%E8%94%9A%E8%97%8D%E6%AA%94%E6%A1%88" target="_blank">wikipedia</a>。</p>
-                    </blockquote>
-                <!-- </div>
-                <br>
-                <div class="mdui-typo"> -->
-
-                    <p>《<strong>蔚蓝档案 Blue Archive</strong>》（韩语：<code>블루 아카이브</code>，日语：<code>ブルーアーカイブ</code>，英语：<code>Blue Archive</code>，中国大陆有时也用非官方名称“<strong>碧蓝档案</strong>”）</p>
-                </div>
-
-                <div class="mdui-divider"></div>
-                <h2 id="-">官网</h2>
-                <p><a href="https://bluearchive.jp/">蔚蓝档案日服官网</a></p>
-                <p><a href="https://bluearchive.nexon.com/home">蔚蓝档案国际服官网</a></p>
-                <p><a href="https://bluearchive-cn.com/">蔚蓝档案国服官网</a> </p>
-                <div class="mdui-divider"></div>
-                <h2 id="-">下载</h2>
-                <h3 id="-">日服下载方式</h3>
-                <p>您可以通过 <a href="https://play.google.com/store/apps/details?id=com.YostarJP.BlueArchive">Google Play</a> 、 <a href="https://apps.apple.com/app/id1515877221">AppStore</a> 来下载 <strong>日服</strong> Blue Archive</p>
-                <h3 id="-">国际服下载方式</h3>
-                <p>您可以通过 <a href="https://play.google.com/store/apps/details?id=com.nexon.bluearchive">Google Play</a> 、 <a href="https://apps.apple.com/tw/app/%E8%94%9A%E8%97%8D%E6%AA%94%E6%A1%88/id1571873795">AppStore</a> 来下载 <strong>国际服</strong> Blue Archive</p>
-                <h3 id="-">国服下载方式</h3>
-                <p>您可以通过 <a href="https://bluearchive-cn.com/">官网</a> 、 <a href="https://apps.apple.com/cn/app/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/id6447541184">AppStore</a> 、 <a href="https://www.taptap.cn/app/316964">TapTap</a> 来下载 <strong>国服</strong> 蔚蓝档案</p>
-                <div class="mdui-divider"></div>
-                <h2 id="-wiki-">相关 <code>Wiki</code></h2>
-                <p><a href="https://ba.gamekee.com/">Gamekee</a></p>
-                <div class="mdui-divider"></div>
-                <h2 id="-">二级域名</h2>
-                <p>你可以 <a href="mailto:gytxtx@outlook.com">联系我</a> 来申请本域名的二级域名</p>
-                <div class="mdui-divider"></div>
-                <h2 id="-">关于我</h2>
-                <p><a href="https://github.com/gytxtx">GitHub</a></p>
-                <p><a href="https://space.bilibili.com/514279030/">哔哩哔哩</a></p>
-                <div class="mdui-divider"></div>
-                <h2 id="-">关于本网站</h2>
-                <p>本网站 是游戏 <strong>《蔚蓝档案》</strong> 的同人网站，其中的信息均为 <strong>已经公开了</strong> 的信息。本网站上的内容不代表任何官方观点。</p>
-                <p>本网站为非盈利站点。</p>
-                <p>本站与 <code>ブルーアーカイブ</code>、<code>Yostar</code>、<code>Nexon</code> 以及 <code>Nexon Games</code> 没有任何形式的关联。</p>
 
                 <div class="mdui-divider"></div>
 
