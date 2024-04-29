@@ -60,9 +60,10 @@
 
 ## 相关交流群
 
-| 群名称 | 群号 | 简介 |
-| :----: | :----: | :----: |
-| 夏萝莉的后宫5群 | [`932119293`](https://qm.qq.com/cgi-bin/qm/qr?k=xJx5SpbL-Exu7Fk1oiIXldAN1J_LEUb4&jump_from=webapi&authKey=An0DcDs9/SDZsBNCDJWngMuQDt+ty7UPfwn4qto1JkCVLOAUK5TIS+ihQjTAfD2Q) | 群内主要用来讨论与交流关于 游戏《**蔚蓝档案**》；偶尔发癫 发色图；群主不是正常人；群里有男娘 |
+| 群名称 | 群号 | 简介 | 保留 |
+| :----: | :----: | :----: | :----: |
+| 夏萝莉的后宫5群 | [`932119293`](https://qm.qq.com/cgi-bin/qm/qr?k=xJx5SpbL-Exu7Fk1oiIXldAN1J_LEUb4&jump_from=webapi&authKey=An0DcDs9/SDZsBNCDJWngMuQDt+ty7UPfwn4qto1JkCVLOAUK5TIS+ihQjTAfD2Q) | 群内主要用来讨论与交流关于 游戏《**蔚蓝档案**》；偶尔发癫 发色图；群主不是正常人；群里有男娘 | - |
+| 蔚蓝档案交流群 | [`839638418`](https://qm.qq.com/q/WxAIDRLygw) | - | - |
 
 > 如果想申请添加名单，请联系我。
 
